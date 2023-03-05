@@ -10,7 +10,8 @@ export default siteConfig({
 
   // basic site info (required)
   name: '效率工具分享',
-  domain: 'https://www.notion.so/6505727a301740a89e360fe7686e12d5',
+//   domain: 'https://www.notion.so/6505727a301740a89e360fe7686e12d5',
+  domain: 'https://erratic-firewall-fad.notion.site/6505727a301740a89e360fe7686e12d5',
   author: 'Leo wang',
 
   // open graph metadata (optional)
