@@ -2,7 +2,7 @@ import { siteConfig } from './lib/site-config'
 
 export default siteConfig({
   // the site's root Notion page (required)
-  rootNotionPageId: '6505727a301740a89e360fe7686e12d5',
+  rootNotionPageId: 'Leo-6505727a301740a89e360fe7686e12d5',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
@@ -11,7 +11,7 @@ export default siteConfig({
   // basic site info (required)
   name: '效率工具分享',
 //   domain: 'https://www.notion.so/6505727a301740a89e360fe7686e12d5',
-  domain: 'https://erratic-firewall-fad.notion.site/6505727a301740a89e360fe7686e12d5',
+  domain: 'https://erratic-firewall-fad.notion.site/Leo-6505727a301740a89e360fe7686e12d5',
   author: 'Leo wang',
 
   // open graph metadata (optional)
